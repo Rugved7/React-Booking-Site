@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two&family=Poppins:wght@600&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif;
+  margin: 0px;
+  padding: 0px;
+}
+
+.navbar {
+  height: 60px;
+  background-color: rgb(2, 26, 47);
+  display: flex;
+  justify-content: center;
+}
+
+.navContainer {
+  width: 100%;
+  max-width: 1024px;
+  color: antiquewhite;
+  display: flex;
+  align-items:center;
+  justify-content: space-between;
+}
+
+.logo {
+  font-weight: 400;
+}
+
+.navButton{
+  margin-left: 20px;
+  font-weight: bolder;
+  border-radius: 10px;
+  padding: 10px;
+  cursor: pointer;
+  color: rgb(11, 104, 185);
+}
