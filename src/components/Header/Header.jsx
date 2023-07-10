@@ -43,7 +43,7 @@ const Header = () => {
         <div className='headerlist'>
 
 
-{/* Adding all icons  */}
+          {/* Adding all icons  */}
 
           <div className='headerListItem active'>
             <FontAwesomeIcon icon={faBed} />
@@ -67,15 +67,15 @@ const Header = () => {
 
         </div>
 
-{/* h1 and paragraph */}
+        {/* h1 and paragraph */}
 
-        <h1 className='headerTitle'> Your Search Ends Here !!</h1>
+        <h1 className='headerTitle'> Your Journey to Incredible India </h1>
         <p className='headerDesc'>
-        Your Gateway to Seamless Travel: Book, Ride, Stay!
+          Book Hotels , Taxis , Flights , and Properties across India with just a click !!
         </p>
-       
 
-{/* Destnination section starts */}
+
+        {/* Destnination section starts */}
 
         <div className='headerSearch'>
 
@@ -86,7 +86,7 @@ const Header = () => {
           </div>
 
 
-{/* Calender Section  logic Start */}
+          {/* Calender Section  logic Start */}
 
           <div className='headerSearchItem'>
             <FontAwesomeIcon icon={faCalendarDays} className='headerIcon' />
@@ -150,7 +150,7 @@ const Header = () => {
             </div>
 
 
-{/* Dialog box Code ends  */}
+            {/* Dialog box Code ends  */}
           </div>}
 
           <div className='headerSearchItem'>

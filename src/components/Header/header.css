@@ -1,7 +1,8 @@
 .header {
-  /* background-image: url(/assets/bg.jpg);
-  height: 50vh; */
-  background-color: rgb(2, 26, 47);
+  background-image: url(/assets/bg1.jpg);
+  content: normal;
+  height:max-content;
+  /* background-color: rgb(2, 26, 47); */
   color: white;
   display: flex;
   justify-content: center;
