@@ -1,7 +1,7 @@
 import { React, useState } from 'react'
 import { faBed, faCar, faTaxi, faPlane, faCalendarDays, faPerson } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import './Header.css/header.css'
+import './header.css'
 
 import 'react-date-range/dist/styles.css'; // main style file
 import 'react-date-range/dist/theme/default.css'; // theme css file
@@ -69,9 +69,9 @@ const Header = () => {
 
 {/* h1 and paragraph */}
 
-        <h1 className='headerTitle'> Chai Piyo , Biscuit Khao !!</h1>
+        <h1 className='headerTitle'> Your Search Ends Here !!</h1>
         <p className='headerDesc'>
-          Ghar me itni Chai pita hai to pata nahi dukan me kitni chai pita hoga ? Band karde ye tera chai pina ...jab dekho tab chai...chai...chai...
+        Your Gateway to Seamless Travel: Book, Ride, Stay!
         </p>
        
 
